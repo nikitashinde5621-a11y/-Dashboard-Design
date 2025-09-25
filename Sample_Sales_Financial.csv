@@ -1,0 +1,51 @@
+OrderDate,Region,Category,Sales,Profit
+2023-01-01,North,Electronics,1069.67,213.61
+2023-01-02,South,Furniture,1069.4,449.66
+2023-01-03,East,Office Supplies,1244.82,290.18
+2023-01-04,West,Clothing,1248.92,362.76
+2023-01-05,North,Electronics,1484.91,392.09
+2023-01-06,South,Furniture,1092.13,357.25
+2023-01-07,East,Office Supplies,1229.39,310.39
+2023-01-08,West,Clothing,1138.79,310.12
+2023-01-09,North,Electronics,1332.58,246.72
+2023-01-10,South,Furniture,1382.46,449.83
+2023-01-11,East,Office Supplies,1244.88,495.07
+2023-01-12,West,Clothing,1161.85,218.42
+2023-01-13,North,Electronics,1366.97,200.97
+2023-01-14,South,Furniture,1089.89,307.32
+2023-01-15,East,Office Supplies,1411.13,298.85
+2023-01-16,West,Clothing,1007.97,465.13
+2023-01-17,North,Electronics,1037.39,299.92
+2023-01-18,South,Furniture,1044.76,414.13
+2023-01-19,East,Office Supplies,1019.41,477.6
+2023-01-20,West,Clothing,1194.14,448.1
+2023-01-21,North,Electronics,1048.64,221.64
+2023-01-22,South,Furniture,1114.88,261.37
+2023-01-23,East,Office Supplies,1275.82,291.53
+2023-01-24,West,Clothing,1001.6,360.55
+2023-01-25,North,Electronics,1226.39,279.7
+2023-01-26,South,Furniture,1494.84,208.58
+2023-01-27,East,Office Supplies,1480.99,286.2
+2023-01-28,West,Clothing,1450.99,476.04
+2023-01-29,North,Electronics,1160.95,466.62
+2023-01-30,South,Furniture,1181.73,356.49
+2023-01-31,East,Office Supplies,1046.23,355.19
+2023-02-01,West,Clothing,1119.05,293.23
+2023-02-02,North,Electronics,1147.01,376.19
+2023-02-03,South,Furniture,1192.57,491.07
+2023-02-04,East,Office Supplies,1094.59,266.18
+2023-02-05,West,Clothing,1224.56,238.45
+2023-02-06,North,Electronics,1288.57,493.35
+2023-02-07,South,Furniture,1054.12,307.22
+2023-02-08,East,Office Supplies,1176.47,288.8
+2023-02-09,West,Clothing,1145.31,450.23
+2023-02-10,North,Electronics,1345.81,245.91
+2023-02-11,South,Furniture,1094.67,472.53
+2023-02-12,East,Office Supplies,1069.7,436.94
+2023-02-13,West,Clothing,1012.42,226.39
+2023-02-14,North,Electronics,1176.9,287.35
+2023-02-15,South,Furniture,1312.4,449.87
+2023-02-16,East,Office Supplies,1422.02,448.33
+2023-02-17,West,Clothing,1252.06,340.71
+2023-02-18,North,Electronics,1175.46,287.31
+2023-02-19,South,Furniture,1474.65,309.36
